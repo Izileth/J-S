@@ -1,1 +1,1 @@
-# J-S
+Jogo da velha em JavaScript
